@@ -1,17 +1,17 @@
-📺︎小超综合,#genre#
-CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
-CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-CCTV-4中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-CCTV-5体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-CCTV-5+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-CCTV-6电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226011/1.m3u8
-CCTV-7军事·农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
-CCTV-8电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-CCTV-9纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-CCTV-10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
-CCTV-11戏曲,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
-CCTV-12社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8
+📺︎小超综合，#流派#
+CCTV-1综合，http://奥特RRS。HL。中国移动。com/PLTV/88888/224/3221226419/index。m3u 8 # http://ott RRS。HL。中国移动。com/PLTV/88888/224/3221226016/index。m3u 8 # http://db IPTV。sn。中国移动。com/PLTV/88888/228
+CCTV-2财经，http://ottrrs。HL。中国移动。com/PLTV/88888/224/3221226540/index。m3u 8 # http://db IPTV。sn。中国移动。com/PLTV/88888/224/3221226195/1。m3u 8
+CCTV-3综艺，http://ottrrs。HL。中国移动。com/PLTV/88888/224/3221226021/index。m3u 8 # http://db IPTV。sn。中国移动。com/PLTV/88888/224/3221226397/1。m3u 8
+CCTV-4中文国际，http://ottrrs。HL。中国移动。com/PLTV/88888/224/3221226428/index。m3u 8 # http://db IPTV。sn。中国移动。com/PLTV/88888/224/3221226191/1。m3u 8
+CCTV-5体育，http://ottrrs。HL。中国移动。com/PLTV/88888/224/3221226019/index。m3u 8 # http://db IPTV。sn。中国移动。com/PLTV/88888/224/3221226395/1。m3u 8
+CCTV-5+ Sportveranstaltungen, http://ottrrs.HL .中国移动。com/PLTV/888888/224/3221225603/索引。m3u 8 # http://db IPTV。SN。中国移动。编辑:PLTV/888888/224/3221225761/1m3u 8
+CCTV-6电影,http://ottrrs.HL。中国移动。com/PLTV/888888/224/3221226010/索引。m3u 8 # http://db IPTV。SN。中国移动。编辑:PLTV/888888/224/3221226011/1m3u 8
+CCTV-7军事 农业，http://ottrrs。HL。中国移动。com/PLTV/888888/224/3221225733/index。m3u 8 # http://db IPTV。sn。中国移动。com/PLTV/88888/224/3221226192/1。m3u 8
+CCTV-8电视剧，http://ottrrs。HL。中国移动。com/PLTV/88888/224/3221226008/index。m3u 8 # http://db IPTV。sn。中国移动。com/PLTV/88888/224/3221226391/1。m3u 8
+中央电视台第九频道纪录，http://ottrrs。HL。中国移动。com/PLTV/88888/224/3221225734/index。m3u 8 # http://db IPTV。sn。中国移动。com/PLTV/88888/224/3221226197/1。m3u 8
+CCTV-10科教，http://ottrrs。HL。中国移动。com/PLTV/88888/224/3221225730/index。m3u 8 # http://db IPTV。sn。中国移动。com/PLTV/88888/224/3221226189/1。m3u 8
+CCTV-11戏曲，http://db IPTV。sn。中国移动。com/PLTV/88888/224/3221226240/1。m3u 8
+中央电视台12频道社会与法，http://ottrrs . HL . China mobile . com/PLTV/888888/224/3221225731/index . m3u 8 # http://db IPTV . sn . China mobile . com/PLTV/888888/224/3221226190/1 . m3u 8
 CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8#https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8#https://pi.0472.org/tv/startv.php?auth=231110
 CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 CCTV-15音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
@@ -636,7 +636,7 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
 天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+青海卫视，http://stream . qhbtv . com/qhws/SD/live . m3 u8
 
 📺︎小超综合6,#genre#
 CCTV-1,http://61.148.223.18:8888/newlive/live/hls/2/live.m3u8
@@ -5681,7 +5681,7 @@ KBS的故事
 日本QVC https://cdn-live 1。qvc。jp/iPhone/1501/1501。m3u 8
 商店频道，http://stream 1。肖奇。jp/HLS/out 2/Prog _ index。m3u 8
 
-📺︎18🈲 _0815，#流派#
+📺︎学习资料㊙️ _0815，#流派#
 松视1(欧美），http://live . red traffic . XYZ/inter racial . m3u 8
 松视2(欧美），http://live . red traffic . XYZ:80/bigtits . m3u 8
 网袜白虎小学妹，https://t21 . cdn 2020 . com/video/m3 u8/2023/03/03/b233b 478/index . m3 u8
