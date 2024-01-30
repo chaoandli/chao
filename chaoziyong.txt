@@ -5668,30 +5668,30 @@ GOODTVCH02真理台,http://198.16.100.90:8278/good2_twn/playlist.m3u8?tid=ME9E39
 半岛新闻「阿拉伯」,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 DCCouncilChannel.htm,http://video.oct.dc.gov/out/u/15_12.m3u8
 Job Plus TV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-EBS+ 1,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-EBS+ 2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-EBS 1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
-EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
-EBS 키즈,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
-Job Plus tv,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?zshijd
-KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
-KBS Kids,http://mytv.dothome.co.kr/ch/catv/6.php
-KBS LiveCam DokDo,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php
-QVC Japan,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-Shop Channel,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+EBS+ 1，http://ebsonairios . EBS . co . kr/plus 1 tablet 500k/tablet 500k/plus 1 tablet 500k . index . m3u 8
+EBS+ 2，http://ebsonairios . EBS . co . kr/plus 2 tablet 500k/tablet 500k/plus 2 tablet 500k . index . m3u 8
+EBS 1，http://ebsonairios . EBS . co . kr/ground wave table 500k/table 500k/playlist . m3u 8？zshijd
+EBS 2，http://ebsonairios . EBS . co . kr/EBS 2 tablet 500k/tablet 500k/EBS 2 tablet 500k . index . m3u 8？zshijd
+埃布斯·키즈,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8？zshijd
+Job Plus tv，http://live . work TV . or . kr:1935/live/wowtvlive 1 . SDP/playlist . m3u 8？zshijd
+KBS戏剧，http://mytv。点回家。公司kr/ch/CATV/2服务器端编程语言（Professional Hypertext Preprocessor的缩写）
+KBS儿童，http://mytv。点回家。公司kr/ch/CATV/6服务器端编程语言（Professional Hypertext Preprocessor的缩写）
+KBS直播独岛，http://kbs-独岛。gscdn。com/独岛_ 300/独岛_ 300。流/播放列表。m3u 8
+KBS的故事
+日本QVC https://cdn-live 1。qvc。jp/iPhone/1501/1501。m3u 8
+商店频道，http://stream 1。肖奇。jp/HLS/out 2/Prog _ index。m3u 8
 
-📺︎18🈲 _0815,#genre#
-松视1(欧美),http://live.redtraffic.xyz/interracial.m3u8
-松视2(欧美),http://live.redtraffic.xyz:80/bigtits.m3u8
-网袜白虎小学妹,https://t21.cdn2020.com/video/m3u8/2023/03/03/b233b478/index.m3u8
-FSOG-067JK学妹的毕业洗礼,https://t21.cdn2020.com/video/m3u8/2023/03/06/a800ea05/index.m3u8
-FSOG-072OL制服的诱惑,https://t21.cdn2020.com/video/m3u8/2023/03/15/d767cfb4/index.m3u8
-FSOG-073上门服务的特殊治疗,https://t21.cdn2020.com/video/m3u8/2023/02/17/d477b576/index.m3u8
-FSOG-077萝莉妹妹酒后失身,https://t21.cdn2020.com/video/m3u8/2023/02/17/a7a670e5/index.m3u8
-FSOG-079揪着双马尾疯狂后入,https://t21.cdn2020.com/video/m3u8/2023/02/16/ba368fa6/index.m3u8
-FSOG-080美腿蜜穴小恶魔-冉冉学姐,https://t21.cdn2020.com/video/m3u8/2023/02/16/e6c53daa/index.m3u8
-FSOG-084十八岁舞蹈生体验,https://t21.cdn2020.com/video/m3u8/2023/03/07/568a14c8/index.m3u8
+📺︎18🈲 _0815，#流派#
+松视1(欧美），http://live . red traffic . XYZ/inter racial . m3u 8
+松视2(欧美），http://live . red traffic . XYZ:80/bigtits . m3u 8
+网袜白虎小学妹，https://t21 . cdn 2020 . com/video/m3 u8/2023/03/03/b233b 478/index . m3 u8
+FSOG-067JK学妹的毕业洗礼，https://t21 . cdn 2020 . com/video/m3 u8/2023/03/06/a 800 ea 05/index . m3 u8
+FSOG-072OL制服的诱惑，https://t21 . cdn 2020 . com/video/m3u 8/2023/03/15/d 767 cf B4/index . m3u 8
+FSOG-073上门服务的特殊治疗，https://t21 . cdn 2020 . com/video/m3 u8/2023/02/17/d477b 576/index . m3 u8
+FSOG-077萝莉妹妹酒后失身，https://t21 . cdn 2020 . com/video/m3u 8/2023/02/17/a7a 670 e 5/index . m3u 8
+FSOG-079揪着双马尾疯狂后入，https://t21 . cdn 2020 . com/video/m3 u8/2023/02/16/ba 368 fa 6/index . m3 u8
+FSOG-080美腿蜜穴小恶魔-冉冉学姐，https://t21 . cdn 2020 . com/video/m3u 8/2023/02/16/e6c 53 DAA/index . m3u 8
+FSOG-084十八岁舞蹈生体验，https://t21 . cdn 2020 . com/video/m3u 8/2023/03/07/568 a14c 8/index . m3u 8
 FSOG-086大神偷拍一线网红,https://t21.cdn2020.com/video/m3u8/2023/03/14/b0a5508a/index.m3u8
 MAD-046极乐修仙者,https://t21.cdn2020.com/video/m3u8/2023/04/11/75a9da10/index.m3u8
 MCY-0140抖音网红妹妹的抖胸变装-秦可欣,https://t21.cdn2020.com/video/m3u8/2023/02/07/1948f108/index.m3u8
