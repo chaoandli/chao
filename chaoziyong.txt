@@ -1,17 +1,17 @@
 📺︎小超综合，#流派#
-CCTV-1综合，http://奥特RRS。HL。中国移动。com/PLTV/88888/224/3221226419/index。m3u 8 # http://ott RRS。HL。中国移动。com/PLTV/88888/224/3221226016/index。m3u 8 # http://db IPTV。sn。中国移动。com/PLTV/88888/228
-CCTV-2财经，http://ottrrs。HL。中国移动。com/PLTV/88888/224/3221226540/index。m3u 8 # http://db IPTV。sn。中国移动。com/PLTV/88888/224/3221226195/1。m3u 8
-CCTV-3综艺，http://ottrrs。HL。中国移动。com/PLTV/88888/224/3221226021/index。m3u 8 # http://db IPTV。sn。中国移动。com/PLTV/88888/224/3221226397/1。m3u 8
-CCTV-4中文国际，http://ottrrs。HL。中国移动。com/PLTV/88888/224/3221226428/index。m3u 8 # http://db IPTV。sn。中国移动。com/PLTV/88888/224/3221226191/1。m3u 8
-CCTV-5体育，http://ottrrs。HL。中国移动。com/PLTV/88888/224/3221226019/index。m3u 8 # http://db IPTV。sn。中国移动。com/PLTV/88888/224/3221226395/1。m3u 8
-CCTV-5+ Sportveranstaltungen, http://ottrrs.HL .中国移动。com/PLTV/888888/224/3221225603/索引。m3u 8 # http://db IPTV。SN。中国移动。编辑:PLTV/888888/224/3221225761/1m3u 8
-CCTV-6电影,http://ottrrs.HL。中国移动。com/PLTV/888888/224/3221226010/索引。m3u 8 # http://db IPTV。SN。中国移动。编辑:PLTV/888888/224/3221226011/1m3u 8
-CCTV-7军事 农业，http://ottrrs。HL。中国移动。com/PLTV/888888/224/3221225733/index。m3u 8 # http://db IPTV。sn。中国移动。com/PLTV/88888/224/3221226192/1。m3u 8
-CCTV-8电视剧，http://ottrrs。HL。中国移动。com/PLTV/88888/224/3221226008/index。m3u 8 # http://db IPTV。sn。中国移动。com/PLTV/88888/224/3221226391/1。m3u 8
-中央电视台第九频道纪录，http://ottrrs。HL。中国移动。com/PLTV/88888/224/3221225734/index。m3u 8 # http://db IPTV。sn。中国移动。com/PLTV/88888/224/3221226197/1。m3u 8
-CCTV-10科教，http://ottrrs。HL。中国移动。com/PLTV/88888/224/3221225730/index。m3u 8 # http://db IPTV。sn。中国移动。com/PLTV/88888/224/3221226189/1。m3u 8
-CCTV-11戏曲，http://db IPTV。sn。中国移动。com/PLTV/88888/224/3221226240/1。m3u 8
-中央电视台12频道社会与法，http://ottrrs . HL . China mobile . com/PLTV/888888/224/3221225731/index . m3u 8 # http://db IPTV . sn . China mobile . com/PLTV/888888/224/3221226190/1 . m3u 8
+CCTV-1综合，http://奥特RRS。HL。中国移动com/PLTV/88888/224/3221226419/index。m3u 8 # http://奥特RRS。HL。中国移动com/PLTV/88888/224/3221226016/index。m3u 8 # http://db IPTV。sn .中国移动com/PLTV/88888/228
+CCTV-2 Finanzen，http://ottrrs . HL . China Mobile.com/PLTV/88888/224/3221226540/index. m3u 8 # http://db IPTV。中国移动。com/PLTV/88888/224/3221226195/1。m3u 8
+CCTV-3综艺，http://ottrrs . HL . China Mobile.com/PLTV/88888/224/3221226021/index. m3u 8 # http://db IPTV。中国移动。com/PLTV/88888/224/3221226397/1。m3u 8
+CCTV-4中国国际频道，http://ottrrs . HL . China Mobile.com/PLTV/88888/224/3221226428/index. m3u 8 # http://db IPTV。中国移动。com/PLTV/88888/224/3221226191/1。m3u 8
+CCTV-5 Sport，http://ottrrs . HL . China Mobile.com/PLTV/88888/224/3221226019/index. m3u 8 # http://db IPTV。中国移动。com/PLTV/88888/224/3221226395/1。m3u 8
+CCTV-5+体育赛事,http://ottrrs.HL.中国移动。com/PLTV/888888/224/3221225603/index.m3u 8 # http://db IPTV.编辑:PLTV/888888/224/3221225761/1m3u 8
+CCTV-6 Film, http://ottrrs.HL. China Mobile.com/PLTV/888888/224/3221226010/Index. m3u 8 # http://db IPTV.编辑:PLTV/888888/224/3221226011/1m3u 8
+CCTV-7 Militär Landwirtschaft, http://ottrrs.HL. China Mobile.com/PLTV/888888/224/3221225733/index.m3u 8 # http://db IPTV.中国移动.com/PLTV/88888/224/3221226192/1.m3u 8
+CCTV-8 TV-Serie, http://ottrrs.HL. China Mobile.com/PLTV/88888/224/3221226008/index. m3u 8 # http://db IPTV.中国移动.com/PLTV/88888/224/3221226391/1.m3u 8
+CCTV Channel 9 Record, http://ottrrs.HL. China Mobile.com/PLTV/88888/224/3221225734/index. m3u 8 # http://db IPTV.中国移动.com/PLTV/88888/224/3221226197/1.m3u 8
+CCTV-10 Wissenschaft und Bildung, http://ottrrs.HL. China Mobile.com/PLTV/88888/224/3221225730/index. m3u 8 # http://db IPTV.中国移动.com/PLTV/88888/224/3221226189/1.m3u 8
+CCTV-11 Drama, http://db IPTV.sn.China Mobile.com/PLTV/88888/224/3221226240/1.m3u 8
+CCTV Channel 12 Gesellschaft und Recht, WEB //ottrrs. HL .中国移动。com/PLTV/888888/224/3221225731/索引。m3u 8 # http://db IPTV。SN。中国移动。编辑:PLTV/888888/224/3221226190/1m3u 8
 CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8#https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8#https://pi.0472.org/tv/startv.php?auth=231110
 CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 CCTV-15音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
@@ -5471,15 +5471,15 @@ Momo TV,http://198.16.100.90:8278/momo1_twn/playlist.m3u8?tid=MFFF97974799979747
 动物星球,http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
 CNBC,http://198.16.100.90:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
 Channel3Thailand,http://198.16.100.90:8278/ch3_pat/playlist.m3u8?tid=MB6B7545566875455668&ct=19254&tsum=80c0722e6c93923edad559f6b70efb47
-DiscoveryAsia,http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
-DiscoveryKidsTamil,http://198.16.100.90:8278/discoverykidtamil_raj/playlist.m3u8?tid=MC1C6666962666669626&ct=19254&tsum=5c7c203bde4f208923e38663dbbc3a4e
-DiscoveryWorldTamil,http://198.16.100.90:8278/discoveryworldtam_raj/playlist.m3u8?tid=MCEC6115648861156488&ct=19254&tsum=37c93ae7da63829245608ed1857a0f97
-BBCWorldNews,http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
-BTSports3,http://198.16.100.90:8278/beethree/playlist.m3u8?tid=MD8D2705762227057622&ct=19254&tsum=5f67e864d74200ddfa93a55f5f897168
-CBBC,http://198.16.100.90:8278/cbbc_antik/playlist.m3u8?tid=MA5A6456021664560216&ct=19254&tsum=14ac9f534102578c23e9e229d28b4fe0
-CBSHD,http://198.16.100.90:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
-itv1,http://198.16.100.90:8278/itv1_antik/playlist.m3u8?tid=MA7A3116345831163458&ct=19254&tsum=fe64dc99ba95f220bea2a2a29319b065
-tvNMovie,http://198.16.100.90:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
+DiscoveryAsia，http://198 . 16 . 100 . 90:8278/discovery TWN _ TWN/playlist . m3u 8？tid = mb1b 4014431840144318 & CT = 19254 & tsum = a 72 E8 CAA 6986 ef 92 c 4d 6 CB 743 e22 a 78 f
+DiscoveryKidsTamil，http://198 . 16 . 100 . 90:8278/DiscoveryKidsTamil _ Raj/playlist . m3u 8？tid = mc1c 6666962666669626 & CT = 19254 & tsum = 5c 7 c 203 bde 4f 208923 e 38663 dbb C3 a4 e
+DiscoveryWorldTamil，http://198 . 16 . 100 . 90:8278/discoveryworldtam _ Raj/playlist . m3u 8？tid = mcec 6115648861156488 & CT = 19254 & tsum = 37c 93 AE 7da 63829245608 ed 1857 a0f 97
+BBCWorldNews，http://198 . 16 . 100 . 90:8278/BBC news _ TWN/playlist . m3u 8？tid = mf3f 9344101593441015 & CT = 19254 & tsum = ee 2d FDC 43081584 C1 c81 ddf 78256 BF 30
+BTSports3，http://198 . 16 . 100 . 90:8278/be three/playlist . m3u 8？tid = md8d 270576227057622 & CT = 19254 & tsum = 5f 67 e 864d 74200 ddfa 93 a 55 f 5f 897168
+CBBC http://198 . 16 . 100 . 90:8278/cbbc _ antik/playlist . m3u 8？tid = ma5a 6456021664560216 & CT = 19254 & tsum = 14 ac9f 534102578 c 23 e9e 229d 28 B4 Fe 0
+CBSHD，http://198 . 16 . 100 . 90:8278/CBSHD _ GLO/playlist . m3u 8？tid = ma1a 7337105773371057 & CT = 19254 & tsum = 89d 432 f 03 B1 b 50 b 68 b 7 bace 382 DC 13 AC
+itv1，http://198 . 16 . 100 . 90:8278/it v1 _ antik/playlist . m3u 8？tid = ma7a 3116345831163458 & CT = 19254 & tsum = Fe 64 DC 99 ba 95 f 220 bea 2a 29319 b 065
+tvNMovie，http://198 . 16 . 100 . 90:8278/tvn movie/playlist . m3 u8？tid = mfff 1556953015569530 & CT = 19254 & tsum = f 4498d 6 da 7 a 4 CCF 9064 e 26396 a 90 e4a 7
 TVN,http://198.16.100.90:8278/TVN/playlist.m3u8?tid=ME2E2714748027147480&ct=19225&tsum=48ef5f1d47a64fc90e5f5ad5b182fb5d
 DiscoveryAsia,http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
 ESPN News,http://38.96.178.201:80/live/ESPNews/index.m3u8
