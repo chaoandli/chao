@@ -1780,7 +1780,7 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-📺︎学习资料 _0815,#genre#
+📺︎内测频道 _0815,#genre#
 松视1(欧美),http://live.redtraffic.xyz/interracial.m3u8
 松视2(欧美),http://live.redtraffic.xyz:80/bigtits.m3u8
 网袜白虎小学妹,https://t21.cdn2020.com/video/m3u8/2023/03/03/b233b478/index.m3u8
