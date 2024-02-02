@@ -1703,7 +1703,7 @@ CGTN英语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/inde
 唐河一套,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8?zhend
 唐河一套,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
 
-📺︎港澳台,#genre#
+📺︎两岸三地,#genre#
 大爱一台,http://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱一台,http://198.16.100.90:8278/daai_twn/playlist.m3u8?tid=ME5E3594665135946651&ct=19249&tsum=1628ac38fd6a79879fccae39de8e845b
 大爱一台,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
@@ -1780,7 +1780,7 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-学习资料 _0815,#genre#
+📺︎学习资料 _0815,#genre#
 松视1(欧美),http://live.redtraffic.xyz/interracial.m3u8
 松视2(欧美),http://live.redtraffic.xyz:80/bigtits.m3u8
 网袜白虎小学妹,https://t21.cdn2020.com/video/m3u8/2023/03/03/b233b478/index.m3u8
