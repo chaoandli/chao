@@ -1409,8 +1409,12 @@ CGTN英语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/inde
 河南电视剧,http://61.163.181.78:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 河南新闻,http://61.163.181.78:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 河南梨园,http://61.163.181.78:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-河南梨园,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
-河南梨园,https://live.goodiptv.club/api/sxg.php?id=ly_4000
+河北卫视,http://111.11.98.205:9900/hls/18/index.m3u8
+河北经济,http://111.11.98.205:9900/hls/19/index.m3u8
+河北都市,http://111.11.98.205:9900/hls/20/index.m3u8
+河北影视,http://111.11.98.205:9900/hls/21/index.m3u8
+河北少儿,http://111.11.98.205:9900/hls/22/index.m3u8
+河北农民,http://111.11.98.205:9900/hls/24/index.m3u8
 焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?zhend
 焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
 焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
@@ -1476,6 +1480,8 @@ CGTN英语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/inde
 方城一套,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8?zhend
 唐河一套,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8?zhend
 唐河一套,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
+河南梨园,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
+河南梨园,https://live.goodiptv.club/api/sxg.php?id=ly_4000
 
 📺︎两岸三地,#genre#
 大爱一台,http://pulltv1.wanfudaluye.com/live/tv1.m3u8
