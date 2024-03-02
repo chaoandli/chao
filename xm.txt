@@ -38,11 +38,13 @@ CGTN 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8#
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 CHC电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8           
-卡酷少儿,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_KAKU/G_KAKU.m3u8
-炫动卡通,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_XUANDONG/G_XUANDONG.m3u8
-金鹰卡通,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_JINYING/G_JINYING.m3u8
-嘉佳卡通,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_JIAJIA/G_JIAJIA.m3u8
-优漫卡通,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_YOUMAN/G_YOUMAN.m3u8
+卡酷少儿,http://123.112.210.212:4022/rtp/239.3.1.189:8000
+卡酷少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
+卡酷少儿,http://qnap.yjnhome.com:4000/udp/239.3.1.189:8000
+炫动卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
+金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
+嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
+优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
@@ -283,11 +285,13 @@ CGTN纪录,http://zteres.sn.chinamobile.com:6060/000000001000/711464783776510405
 第一财经,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000027146/1.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 东方财经,http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
 五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
-哈哈炫动,http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031641/1.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3
-嘉佳卡通,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000025964/1.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=3
-卡酷少儿,http://zteres.sn.chinamobile.com:6060/000000001000/7851974109718180595/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
-金鹰卡通,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040024/1.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
-优漫卡通,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000010063/1.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3
+卡酷少儿,http://123.112.210.212:4022/rtp/239.3.1.189:8000
+卡酷少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
+卡酷少儿,http://qnap.yjnhome.com:4000/udp/239.3.1.189:8000
+炫动卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
+金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
+嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
+优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
 
 📺︎小超综合3,#genre#
 CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
