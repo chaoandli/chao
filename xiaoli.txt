@@ -597,40 +597,12 @@ CCTV17,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?fmmv6
 三亚卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000136/index.m3u8?IAS
 山东教育电视台,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001317/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-
-
-📺︎热门动漫,#genre#
-熊出没·逆转时空TC,https://ikcdn01.ikzybf.com/20240212/7w3g1kby/2000kb/hls/index.m3u8#https://ikcdn01.ikzybf.com/20240212/7w3g1kby/index.m3u8#https://ikcdn01.ikzybf.com/20240213/gWXElHzc/2000kb/hls/index.m3u8#https://ikcdn01.ikzybf.com/20240213/gWXElHzc/index.m3u8
-机器人之梦,https://s.xlzys.com/play/pen0mZlb/index.m3u8
-星愿,https://v.cdnlz12.com/20240123/11057_cb0db3f7/2000k/hls/mixed.m3u8#https://v.cdnlz12.com/20240123/11057_cb0db3f7/index.m3u8#https://yzzy1.play-cdn1.com/20240123/12765_c87cbce3/2000k/hls/index.m3u8#https://yzzy1.play-cdn1.com/20240123/12765_c87cbce3/index.m3u8
-飞鸭向前冲,https://www.yzzy.play-cdn1.com/20240129/14669_4dfca98a/2000k/hls/index.m3u8#https://www.yzzy.play-cdn1.com/20240129/14669_4dfca98a/index.m3u8
-火神之天启之子,https://v.cdnlz12.com/20240129/11187_fc414c3b/2000k/hls/mixed.m3u8#https://v.cdnlz12.com/20240129/11187_fc414c3b/2000k/hls/mixed.m3u8#https://www.yzzy.play-cdn20.com/20240128/14100_fe5cf00d/2000k/hls/index.m3u8#https://www.yzzy.play-cdn20.com/20240128/14100_fe5cf00d/index.m3u8
-爱丽丝和特蕾丝的梦幻工厂,https://v.cdnlz3.com/20240115/22790_1d9c990e/2000k/hls/mixed.m3u8#https://v.cdnlz3.com/20240115/22790_1d9c990e/index.m3u8#https://cdn1.vip-vip-yzzy.com/20240115/12177_fde5f73e/2000k/hls/index.m3u8#https://cdn1.vip-vip-yzzy.com/20240115/12177_fde5f73e/index.m3u8
-正义联盟：无限地球危机(上),https://v.cdnlz3.com/20240109/22700_37c883c6/2000k/hls/mixed.m3u8#https://v.cdnlz3.com/20240109/22700_37c883c6/index.m3u8#https://yzzy.play-cdn19.com/20240109/13955_2692828a/2000k/hls/index.m3u8#https://yzzy.play-cdn19.com/20240109/13955_2692828a/index.m3u8
-中国惊奇先生,https://ukzy.ukubf3.com/20231130/QdNgsBch/2000kb/hls/index.m3u8#https://yzzy.play-cdn20.com/20231130/6495_b15222b5/2000k/hls/index.m3u8#https://dghls.mcloud.139.com/hls/LDd389b970ce28e2cd91ee65bf5f20ea6a/single/video/0/480/index.m3u8
-蜥蜴伯伯里奥,https://v.cdnlz2.com/20231121/26945_75f8dadc/2000k/hls/mixed.m3u8#https://cdn1.vip-vip-yzzy.com/20231121/6287_e7dc06c1/2000k/hls/index.m3u8
-小鸡快跑2.逃出鸡块工厂,https://cdn1.vip-vip-yzzy.com/20231215/9445_34fbf058/2000k/hls/index.m3u8
-奇迹少女,https://vip1.lz-cdn1.com/20230730/21518_6fd8d0ba/2000k/hls/mixed.m3u8
-画江湖之天罡传,https://v.cdnlz3.com/20231229/22519_52852c99/2000k/hls/mixed.m3u8
-贝肯熊3.火星任务,https://dghls.mcloud.139.com/hls/LHb543a227b8caf4b2408f7090cb44e1e3/single/video/0/480/index.m3u8#https://apd-vlive.apdcdn.tc.qq.com/defaultts.tc.qq.com/0U5M3axQyKNYAeH3cVYMimlKwIu6NZO9hhFnAP8kMhSK2yEB2yeLQFfWIZwuIT7PeuyspHDABzV2P96Guaw_qxpR6rS2h4Zt2OhnQ2DzGONlNi2jO6ro_zLWeC6tK0IxIHzjVVBOP8Z-UlIakkQkz9hXDL4vwMabJJhHOYdsYAWlsL_mOuyltm2iLpIToCcM/gzc_1000102_0b53yqaaeaaanuaadzcjozs4brgdaleaabsa.f321004.ts.m3u8?ver=4#https://cdn.zui.cm:2022/api/22b7b383adedb895f528915aedaad434.m3u8?token=ac98vvwEVTlg3zKYcbfYGjgfr96ldoS1awDKOiw4VB77pybwrm9QcNf88y4c&svip.m3u8
-汪汪队-超能大冒险,https://dghls.mcloud.139.com/hls/LD6b7834255e4ada4c7f180247f86bad81/single/video/0/480/index.m3u8#https://v.cdnlz3.com/20231229/22511_89658c88/2000k/hls/mixed.m3u8
-小淘气尼古拉 ：我们还在等什么才能快乐,https://cdn1.vip-vip-yzzy.com/20240115/12177_fde5f73e/2000k/hls/index.m3u8#https://v.cdnlz3.com/20240115/22790_1d9c990e/2000k/hls/mixed.m3u8
-茶啊二中,https://v.cdnlz3.com/20230919/21729_c23ad792/2000k/hls/mixed.m3u8#https://ukzyvod3.ukubf5.com/20230920/bFbbhuw2/2000kb/hls/index.m3u8
-长安三万里,https://yzzy.play-cdn1.com/20230928/1059_b74249f1/2000k/hls/index.m3u8#https://y2.ylbf1.com/20230928/JGqNRCDf/1500kb/hls/index.m3u8
-流浪狗,https://v.cdnlz12.com/20230906/9963_8d8817e2/2000k/hls/mixed.m3u8#https://ukzyvod3.ukubf5.com/20230906/RPr8m1vH/2000kb/hls/index.m3u8
-疯了！桂宝之三星夺宝,https://vip1.lz-cdn1.com/20230813/21783_646b079f/2000k/hls/mixed.m3u8#https://vip15.play-cdn15.com/20230808/23285_1f94431d/2000k/hls/index.m3u8
-桂宝之爆笑闯宇宙,https://vip1.lz-cdn1.com/20220428/3569_dab66277/1200k/hls/mixed.m3u8#https://yzzy.play-cdn3.com/20220512/20946_f758c769/1000k/hls/index.m3u8
-美猴王,https://vip.lz-cdn12.com/20230818/9391_b73195aa/2000k/hls/mixed.m3u8#https://yzzy.play-cdn19.com/20230818/131_7ad046bb/2000k/hls/index.m3u8
-疯狂元素城,https://vip15.play-cdn15.com/20230816/23740_a2af7599/2000k/hls/index.m3u8
-名侦探柯南灰原哀物语～黑铁的神秘列车,https://vip15.play-cdn15.com/20230710/18826_c743dc6d/2000k/hls/index.m3u8#https://ukzyvod3.ukubf5.com/20230710/XbkjgUOX/2000kb/hls/index.m3u8#https://vip15.play-cdn15.com/20230710/18826_c743dc6d/2000k/hls/index.m3u8
-蜘蛛侠：纵横宇宙,https://vip.lz-cdn16.com/20230810/34698_236177ad/2000k/hls/mixed.m3u8#https://vip.lz-cdn16.com/20230810/34697_b22e2880/2000k/hls/mixed.m3u8#https://yzzy.play-cdn18.com/20230807/3890_c802be56/2000k/hls/index.m3u8#https://ukzyvod3.ukubf5.com/20230808/v0CHXnqp/2000kb/hls/index.m3u8
-正义联盟：战争世界,https://ukzyvod3.ukubf5.com/20230717/DV5pIwU3/2000kb/hls/index.m3u8
-灌篮高手电影版TC,https://vip1.lz-cdn1.com/20230507/20988_3d1da82b/2000k/hls/mixed.m3u8
-熊出没·伴我熊芯,https://hd.lz-cdn18.com/20230416/1902_adf3668b/2000k/hls/mixed.m3u8#https://hd.lz-cdn18.com/20230416/1902_adf3668b/index.m3u8#https://ukzyvod3.ukubf5.com/20230416/RQv7Npdz/2000kb/hls/index.m3u8#https://ukzyvod3.ukubf5.com/20230416/RQv7Npdz/index.m3u8
-深海,https://vip1.lz-cdn1.com/20230324/20760_c088369d/1800k/hls/mixed.m3u8#https://vip1.lz-cdn1.com/20230324/20760_c088369d/index.m3u8
-魔术师的大象https://vip.lz-cdn3.com/20230318/18175_6ae56259/1800k/hls/mixed.m3u8#https://vip.lz-cdn3.com/20230318/18175_6ae56259/index.m3u8
-
+金鹰卡通,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
+快乐垂钓,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRJiJ8tFyWVQ4LIMJg%2BXyuQCUUYb4If0LygirGPvYsbTi60DjU3KKPbFtbFrR1EGj%2FI
+卡酷少儿,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUbM%2BtJ%2FIKUay0816q4f4FPN9pHjY5eGh1%2F3MQt0stvVIcNMY1ycEUDLSM33BfV5mc1yzDtp74FxRG%2BT%2ByX8dhHQ
+金鹰卡通,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000130/index.m3u8?IAS
+卡酷少儿,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000129/index.m3u8?IAS
+嘉佳卡通,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000343/index.m3u8?IAS
 📺︎小超河南,#genre#
 河南卫视,http://61.163.181.78:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 河南都市,http://61.163.181.78:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -639,12 +611,7 @@ CCTV17,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3
 河南电视剧,http://61.163.181.78:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 河南新闻,http://61.163.181.78:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 河南梨园,http://61.163.181.78:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://111.11.98.205:9900/hls/18/index.m3u8
-河北经济,http://111.11.98.205:9900/hls/19/index.m3u8
-河北都市,http://111.11.98.205:9900/hls/20/index.m3u8
-河北影视,http://111.11.98.205:9900/hls/21/index.m3u8
-河北少儿,http://111.11.98.205:9900/hls/22/index.m3u8
-河北农民,http://111.11.98.205:9900/hls/24/index.m3u8
+
 焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?zhend
 焦作综合,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
 焦作公共,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend
