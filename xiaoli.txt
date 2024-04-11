@@ -603,6 +603,14 @@ CCTV17,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3
 金鹰卡通,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000130/index.m3u8?IAS
 卡酷少儿,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000129/index.m3u8?IAS
 嘉佳卡通,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000343/index.m3u8?IAS
+CHC动作电影,https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8x.m3u8?AuthInfo=9kOOdBn7MF
+CHC高清电影,https://epg.pw/stream/3b471ad5f1aa57bac299045428922c098b2f6204a72ef8428b398db14eaa5c96.m3u8
+CHC高清电影,P2p://generationnexxxt.com:19806/bc7bf77f1cb5401389500427f060caa1
+CHC家庭影院,P2p://generationnexxxt.com:19806/53491943aa934355b381bc8684bc4fc2
+CHC动作电影,P2p://generationnexxxt.com:19806/ab40a3bbbef244a1b4c8c0f841f0561f
+CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04 
+CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
+
 📺︎小超河南,#genre#
 河南卫视,http://61.163.181.78:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 河南都市,http://61.163.181.78:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
