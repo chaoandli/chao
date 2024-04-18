@@ -1,7 +1,8 @@
 📡小超TV,#genre#
 联系作者,https://gitee.com/lishichaoandheli/chaoge/raw/master/zz.mp4
 小超号卡,https://gitee.com/lishichaoandheli/chaoge/raw/master/hk.mp4
-
+戏曲测试,#genre#
+戏曲,http://pl-ali.youku.com/playlist/m3u8?vid=XMjk1NTcxMzMzNg%3D%3D&type=flv&ups_client_netip=78db496e&utid=9lCaHigaRAgCAXjbSQr%2Fd0AO&ccode=0502&psid=efa9e8f71d71bb9a1a224214da23b45041346&app_ver=2.1.69&duration=6001&expire=18000&drm_type=1&drm_device=7&drm_default=1&nt=1&media_type=standard&dyt=1&ups_ts=1713447758&onOff=16&encr=0&ups_key=449d05a9688b0dc6fd64be7eb10b9134&ckt=1&m_onoff=0&pn=&app_key=24679788&drm_type_value=default
 📺︎小超综合,#genre#,http://tv.ddzb.fun:88/epg022/epg.php
 联系作者,https://gitee.com/lishichaoandheli/chaoge/raw/master/zz.mp4
 小超号卡,https://gitee.com/lishichaoandheli/chaoge/raw/master/hk.mp4
