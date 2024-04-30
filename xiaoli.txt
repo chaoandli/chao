@@ -1,7 +1,9 @@
-此版本为,#genre#
-免费版本,#genre#
-更多频道,#genre#
-联系作者,#genre#
+📡小超TV,https://gitee.com/lishichaoandheli/chaoge/raw/master/zz.mp4
+此版本为,https://gitee.com/lishichaoandheli/chaoge/raw/master/zz.mp4
+免费版本,https://gitee.com/lishichaoandheli/chaoge/raw/master/zz.mp4
+更多频道,https://gitee.com/lishichaoandheli/chaoge/raw/master/zz.mp4
+联系作者,https://gitee.com/lishichaoandheli/chaoge/raw/master/zz.mp4
+获取新版,https://gitee.com/lishichaoandheli/chaoge/raw/master/zz.mp4
 📡央视,#genre#
 CCTV1,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576802.m3u8
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
